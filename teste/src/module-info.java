@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author bianc
- *
- */
-module teste {
-}
